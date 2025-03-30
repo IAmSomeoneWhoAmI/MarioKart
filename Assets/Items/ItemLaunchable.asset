@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57148eda234ed5946a26136a5e684f37, type: 3}
+  m_Name: ItemLaunchable
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: ba04b7e4aeefca84fb505b7510941a3e, type: 3}
+  itemName: Banane
+  itemUseCount: 1
+  objectToLaunch: {fileID: 3874182265744261424, guid: 43e1bd70d20d69f40a6f2eb62975de8a,
+    type: 3}

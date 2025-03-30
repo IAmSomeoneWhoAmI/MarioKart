@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0880244da9eb8634eaae23527775667d, type: 3}
+  m_Name: ItemBloop
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: 3a9e9b227c9e24b499bd238bdb63b4af, type: 3}
+  itemName: 
+  itemUseCount: 1
+  Bloop1: {fileID: 7510745917261698700, guid: 235d7efef9c235f4881d65183e9dd1a6, type: 3}
+  Bloop2: {fileID: 8777056539647404577, guid: 34dac2bc75793b94a868d87a4cf2d18f, type: 3}

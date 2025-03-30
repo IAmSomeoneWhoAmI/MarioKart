@@ -1,0 +1,65 @@
+# Exported from Wings 3D 1.5.4
+newmtl Material__55
+Ns 100.0
+d 0.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd Material__55.png
+map_Ka Material__55.png
+
+newmtl Shadebody
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd Shadebody.png
+map_Ka Shadebody.png
+
+newmtl Shadeboot
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd Shadeboot.png
+map_Ka Shadeboot.png
+
+newmtl Shadehand
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd Shadehand.png
+map_Ka Shadehand.png
+
+newmtl default
+Ns 0.0
+d 1.0
+illum 2
+Kd 0.8333333333333334 0.7428571428571428 0.6444444444444445
+Ka 0.8333333333333334 0.7428571428571428 0.6444444444444445
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+
+newmtl head
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd head.png
+map_Ka head.png
+
